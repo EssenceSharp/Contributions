@@ -3,7 +3,7 @@ Contributions
 
 Class libraries written in Essence# contributed by the community
 
-The REQUIRED location is %EssenceSharpPath%\Source\Libraries\Contributions.lib (i.e., the parent folder must be Libraries.)
+The default location of the Essence# Contributions Library is %EssenceSharpPath%\Source\Libraries\Contributions.lib. The name of the folder that contains it must be Contributions.lib, and by default that folder resides at %EssenceSharpPath%\Source\Libraries. But the Contributions Library (i.e, the Contributions.lib folder) may reside at any location specified as one one of the library search paths by the set of of active configuration profiles.
 
 The code (and other documents) in this repository consist of code (and perhaps other documents or files) contributed to the Essence# community by persons or organizations who are not formally a part of the Essence# project.  Each such contribution is made on its own terms, and it may use or require whatever licensing terms the rights owner may impose. 
 
